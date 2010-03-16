@@ -1,0 +1,11 @@
+ABOUT
+
+Spork is a silly little piece of code that exists for no good reason at all.
+It's fork() and exec() rolled into one function call. Whee.
+
+INSTALLATION
+
+If you want to use the man page, copy it to section three of your manual
+library (usually somewhere like /usr/share/man/man3 or somesuch). Put the
+header file somewhere #include will find it. Lastly, link the implementation
+file into your program. Whee. 
